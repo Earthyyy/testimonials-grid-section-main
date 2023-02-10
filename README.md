@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Testimonials Grid Section](https://your-live-site-url.com)
+- Live Site URL: [Testimonials Grid Section](https://earthyy-testimonials-grid-section.netlify.app/)
 
 ## My process
 
